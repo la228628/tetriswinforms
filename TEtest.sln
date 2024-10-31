@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEtest", "TEtest\TEtest.csproj", "{E2BD4722-8A86-44D0-852F-5F0B926DCCB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{0BA83BC7-390E-4500-A685-5590214976C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2BD4722-8A86-44D0-852F-5F0B926DCCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BD4722-8A86-44D0-852F-5F0B926DCCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BD4722-8A86-44D0-852F-5F0B926DCCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BD4722-8A86-44D0-852F-5F0B926DCCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {420E9B91-6CED-4E71-A463-D5A9B72A1035}
+	EndGlobalSection
+EndGlobal
